@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="projekt.usuwanie">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABAAAACAAAACAAAYAAAAAWBAAAAAEAA=</HashCode>
+      <FileName>usuwanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.wyp">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAEAAAACAAABAAAACAAAACAAAYJAQAAGQQAAABIAI=</HashCode>
+      <FileName>wyp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.zarządzanie">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQCAgACAAABAQBICACAACAAAYAAAAAGBwAAAAAAI=</HashCode>
+      <FileName>zarządzanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.user">
+    <Position X="1.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAABIAAACAAAQCAAg4AAAAAHBAAAAAEAA=</HashCode>
+      <FileName>user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.staff">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAASCAIBAABACAAIACAAA4AAAAAHBgAAgAAAA=</HashCode>
+      <FileName>staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.rejestracja">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABIgBICAAAACQAAYAAAAAGBAAAAAGAI=</HashCode>
+      <FileName>rejestracja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.panel_kont">
+    <Position X="6.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABIABICAAAACAAAYAAAAAGBAAAAAiAI=</HashCode>
+      <FileName>panel_kont.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.office">
+    <Position X="1.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABKgAACAAAACQAAYAAAAAGBAAACAkAM=</HashCode>
+      <FileName>office.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.konta">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACgCAAAAAAAAAAAAAAAAAAAAACAEAE=</HashCode>
+      <FileName>konta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.Form1">
+    <Position X="4.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABIAAACAAAACAAA4AAAAAHAAAAAAEAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.edycja">
+    <Position X="3.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABAADICAAAACwAA4AAAAAHBAAAACgAI=</HashCode>
+      <FileName>edycja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.cars">
+    <Position X="14.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABgAAAAAAAAABAAAAAAkAAAAAAGKAAAIAAA=</HashCode>
+      <FileName>cars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.wypozyczenie">
+    <Position X="14.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAQAACAABAAAABAQAAAAABAAAAAA=</HashCode>
+      <FileName>wypozyczenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.admin">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAABACAAAAEAAICAAACCAAAsEAAAAEAAAAACAAA=</HashCode>
+      <FileName>admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.add">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAADAAABEQAACABAACAAAcAAAAAGBAAAEIgAI=</HashCode>
+      <FileName>add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt.Program">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+
+a b user c d e
+admin admin admin marcin czuba email
+1 2 user 3 4 5
+admin2 admin2 admin abcd efgh ijkl
+biuro1 1 office a b xD
+obs³uga1 1 staff aa bb cc
+usun usun usun usun usun usun
